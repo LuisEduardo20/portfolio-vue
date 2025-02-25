@@ -246,44 +246,13 @@
         "faIcon": null,
         "value": null,
         "locales": {
-          "en": {
-            "title": "User Interface (UI) Design",
-            "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."
+          "pt-br": {
+            "title": "Desenvolvimento Front-End",
+            "description": "Ábil para desenvolver código em Wordpress/Elementor, VueJS, React JS and TypeScript."
           },
-          "es": {
-            "title": "Diseño de Interfaz de Usuario (UI)",
-            "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."
-          },
-          "fr": {
-            "title": "Design d'Interface Utilisateur (UI)",
-            "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."
-          },
-          "zh": {
-            "title": "用户界面（UI）设计",
-            "description": "能够设计直观且视觉吸引力强的用户界面，以实现无缝用户交互。"
-          }
-        }
-      },
-      {
-        "imageIconUrl": null,
-        "faIcon": null,
-        "value": null,
-        "locales": {
           "en": {
             "title": "Front-End Development",
-            "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."
-          },
-          "es": {
-            "title": "Desarrollo Front-End",
-            "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."
-          },
-          "fr": {
-            "title": "Développement Front-End",
-            "description": "Capable de coder en VueJS, AngularJS et TypeScript."
-          },
-          "zh": {
-            "title": "前端开发",
-            "description": "能够编写VueJS、AngularJS和TypeScript代码。"
+            "description": "Able to develop code in Wordpress/Elementor, VueJS, React JS and TypeScript."
           }
         }
       },
@@ -292,21 +261,13 @@
         "faIcon": null,
         "value": null,
         "locales": {
+          "pt-br": {
+            "title": "Desenvolvimento Back-End",
+            "description": "Ábil para desenvolver código em Prisma ORM, Express JS,  and TypeScript."
+          },
           "en": {
-            "title": "Information Visualization",
-            "description": "Able to transform complex data into clear visuals."
-          },
-          "es": {
-            "title": "Visualización de Información",
-            "description": "Capaz de transformar datos complejos en visuales claros."
-          },
-          "fr": {
-            "title": "Visualisation de l'Information",
-            "description": "Capable de transformer des données complexes en visuels clairs."
-          },
-          "zh": {
-            "title": "信息可视化",
-            "description": "能够将复杂的数据转化为清晰的可视化图表。"
+            "title": "Back-End Development",
+            "description": "Able to develop code in Prisma ORM, Express JS, Adonis jS and TypeScript."
           }
         }
       },
@@ -315,67 +276,13 @@
         "faIcon": null,
         "value": null,
         "locales": {
+          "pt-br": {
+            "title": "Desenvolvimento Mobile",
+            "description": "Ábil para desenvolver código em React Native and TypeScript."
+          },
           "en": {
-            "title": "Accessibility and Inclusive Design",
-            "description": "Able to create digital experiences that are accessible to all."
-          },
-          "es": {
-            "title": "Accesibilidad y Diseño Inclusivo",
-            "description": "Capaz de crear experiencias digitales accesibles para todos."
-          },
-          "fr": {
-            "title": "Accessibilité et Design Inclusif",
-            "description": "Capable de créer des expériences numériques accessibles à tous."
-          },
-          "zh": {
-            "title": "可访问性和包容性设计",
-            "description": "能够创建面向所有人的数字体验。"
-          }
-        }
-      },
-      {
-        "imageIconUrl": null,
-        "faIcon": null,
-        "value": null,
-        "locales": {
-          "en": {
-            "title": "User-Centric Data Analysis",
-            "description": "Proficient in analyzing data with a focus on the needs and preferences of users, enabling data-driven decisions that align with user expectations."
-          },
-          "es": {
-            "title": "Análisis de Datos Centrado en el Usuario",
-            "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."
-          },
-          "fr": {
-            "title": "Analyse de Données Axée sur l'Utilisateur",
-            "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."
-          },
-          "zh": {
-            "title": "以用户为中心的数据分析",
-            "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"
-          }
-        }
-      },
-      {
-        "imageIconUrl": null,
-        "faIcon": null,
-        "value": null,
-        "locales": {
-          "en": {
-            "title": "Mobile App User Experience",
-            "description": "Skilled in crafting user-centered experiences within mobile applications, ensuring smooth and intuitive interactions."
-          },
-          "es": {
-            "title": "Experiencia de Usuario en Aplicaciones Móviles",
-            "description": "Experto en crear experiencias centradas en el usuario en aplicaciones móviles, garantizando interacciones fluidas e intuitivas."
-          },
-          "fr": {
-            "title": "Expérience Utilisateur d'Applications Mobiles",
-            "description": "Compétent dans la création d'expériences centrées sur l'utilisateur au sein des applications mobiles, garantissant des interactions fluides et intuitives."
-          },
-          "zh": {
-            "title": "移动应用用户体验",
-            "description": "擅长在移动应用中打造以用户为中心的体验，确保流畅而直观的交互。"
+            "title": "Mobile Development",
+            "description": "Able to code in React Native and TypeScript."
           }
         }
       }
