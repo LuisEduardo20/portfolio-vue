@@ -1,15 +1,15 @@
 {
-  "name": "Jonas Einstein",
+  "name": "Luis Eduardo",
   "profilePictureUrl": "images/pictures/avatar.jpeg",
 
   "locales": {
     "pt-br": {
       "credits": "Desenvolvido por <strong><a class='light' href='https://github.com/luiseduardo20'>Luis Eduardo</a></strong>",
-      "role": "UX Designer"
+      "role": "Desenvolvedor Web"
     },
     "en": {
       "credits": "Designed by <strong><a class='light' href='https://github.com/luiseduardo20'>Luis Eduardo</a></strong>",
-      "role": "UX Designer"
+      "role": "Web Developer"
     }
   },
 
