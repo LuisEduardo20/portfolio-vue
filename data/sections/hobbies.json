@@ -1,0 +1,195 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Hobbies</span> & Interests",
+      "description": "This is pretty much how I spend my free time:"
+    },
+    "es": {
+      "title": "<span class='text-primary'>Pasatiempos</span> e Intereses",
+      "description": "Así es más o menos cómo paso mi tiempo libre:"
+    },
+    "fr": {
+      "title": "<span class='text-primary'>Loisirs</span> et Intérêts",
+      "description": "C'est à peu près ainsi que je passe mon temps libre:"
+    },
+    "zh": {
+      "title": "<span class='text-primary'>爱好</span>与兴趣",
+      "description": "这基本上是我空闲时间的安排："
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "activities",
+      "type": "pie",
+      "progress": "number",
+      "faIcon": "fa-solid fa-clock",
+      "locales": {
+        "en": { "title": null }
+      }
+    },
+
+    {
+      "id": "interests",
+      "type": "list",
+      "progress": null,
+      "faIcon": "fa fa-book-open-reader",
+      "locales": {
+        "en": { "title": "Interests" },
+        "es": { "title": "Intereses" },
+        "fr": { "title": "Centres d'intérêt" },
+        "zh": { "title": "兴趣" }
+      }
+    }
+  ],
+
+  "items": {
+    "activities": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-users",
+        "value": 25,
+        "locales": {
+          "pt-br": {
+            "title": "Familia e amigos",
+            "description": "Tempo gasto com pessoas queridas."
+          },
+          "en": {
+            "title": "Family & Friends",
+            "description": "Time spent with cherished loved ones."
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-tasks",
+        "value": 15,
+        "locales": {
+          "pt-br": {
+            "title": "Meus Projetos",
+            "description": "Prosseguindo com meus esforços criativos."
+          },
+          "en": {
+            "title": "My Projects",
+            "description": "Pursuing my creative endeavors."
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-couch",
+        "value": 15,
+        "locales": {
+          "pt-br": {
+            "title": "Descançando",
+            "description": "Entregando-se à tranquilidade, aliviando o estresse da vida."
+          },
+          "en": {
+            "title": "Relaxing",
+            "description": "Indulging in tranquility, unwinding the stresses of life."
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-book",
+        "value": 15,
+        "locales": {
+          "pt-br": {
+            "title": "Estudando",
+            "description": "Embarcando em uma jornada contínua de aprendizado."
+          },
+          "en": {
+            "title": "Studying",
+            "description": "Embarking on a continuous journey of learning."
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-dumbbell",
+        "value": 20,
+        "locales": {
+          "pt-br": {
+            "title": "Exercícios",
+            "description": "Dedicar tempo ao bem-estar físico."
+          },
+          "en": {
+            "title": "Exercise",
+            "description": "Dedicating time to physical well-being."
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-music",
+        "value": 10,
+        "locales": {
+          "pt-br": {
+            "title": "Musica",
+            "description": "Escutando e praticando instrumentos para alimentar a alma."
+          },
+          "en": {
+            "title": "Music",
+            "description": "Listening and practicing instruments to feed the soul."
+          }
+        }
+      }
+    ],
+
+    "interests": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-code",
+        "value": null,
+        "locales": {
+          "pt-br": {
+            "title": "Programação",
+            "description": "Explorando códigos, algoritmos e criando soluções de software para desafios do mundo real."
+          },
+          "en": {
+            "title": "Programming",
+            "description": "Exploring code, algorithms, and building software solutions for real-world challenges."
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-music",
+        "value": null,
+        "locales": {
+          "pt-br": {
+            "title": "Música",
+            "description": "Tocar instrumentos, apreciar álbuns, descobrir músicas em novos tons."
+          },
+          "en": {
+            "title": "Music",
+            "description": "Playing instruments, listening to albums, discovering music in new tones."
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-desktop",
+        "value": null,
+        "locales": {
+          "pt-br": {
+            "title": "Desenvolvimento Front-End",
+            "description": "Criação de interfaces web interativas usando tecnologias modernas para experiências de usuário perfeitas."
+          },
+          "en": {
+            "title": "Front-End Development",
+            "description": "Crafting interactive web interfaces using modern technologies for seamless user experiences."
+          }
+        }
+      }
+    ]
+  }
+}

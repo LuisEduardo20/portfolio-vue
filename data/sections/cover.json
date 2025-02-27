@@ -1,0 +1,27 @@
+{
+  "locales": {
+    "pt-br": {
+      "welcome": "Bem vindo ao meu <span class='text-primary'>Currículo!</span>",
+      "welcomeShort": "Bem vindo!",
+      "bio": "Com 5 anos de experiência como desenvolvedor de software pude contribur em diversos projetos de várias áreas, desde saúde até consultorias, sou apaixonado pela arte de resolver problemas e será um prazer lhe ajudar no que precisar!"
+    },
+
+    "en": {
+      "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+      "welcomeShort": "Welcome!",
+      "bio": "With 5 years of experience as a software developer, I was able to contribute to several projects in different areas, from healthcare to consultancy, I am passionate about the art of solving problems and it will be a pleasure to help you with whatever you need!"
+    }
+  },
+
+  "items": {
+    "socialCircles": [
+      "@link{profile.contact.linkedin}",
+      "@link{profile.contact.github}"
+    ],
+
+    "contactListItems": [
+      "@link{profile.contact.email}",
+      "@link{profile.contact.phone}"
+    ]
+  }
+}

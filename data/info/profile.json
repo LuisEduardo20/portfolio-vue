@@ -1,0 +1,49 @@
+{
+  "name": "Luis Eduardo",
+  "profilePictureUrl": "images/pictures/avatar.jpeg",
+
+  "locales": {
+    "pt-br": {
+      "credits": "Desenvolvido por <strong><a class='light' href='https://github.com/luiseduardo20'>Luis Eduardo</a></strong>",
+      "role": "Desenvolvedor Web"
+    },
+    "en": {
+      "credits": "Designed by <strong><a class='light' href='https://github.com/luiseduardo20'>Luis Eduardo</a></strong>",
+      "role": "Web Developer"
+    }
+  },
+
+  "contact": {
+    "email": {
+      "id": "email",
+      "value": "luiseduardo20.dev@gmail.com",
+      "valueShort": "luiseduardo20.dev@gmail.com",
+      "faIcon": "fa-solid fa-envelope",
+      "href": "mailto:luiseduardo20.dev@gmail.com"
+    },
+
+    "github": {
+      "id": "github",
+      "value": "@LuisEduardo20",
+      "valueShort": "@LuisEduardo20",
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com"
+    },
+
+    "linkedin": {
+      "id": "linkedin",
+      "value": "@luiseduardo20",
+      "valueShort": "@luiseduardo20",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://linkedin.com"
+    },
+
+    "phone": {
+      "id": "Telefone",
+      "value": "+55 (81) 99876-8115",
+      "valueShort": "(81) 99876-8115",
+      "faIcon": "fa-solid fa-phone",
+      "href": "tel:(81) 99876-8115"
+    }
+  }
+}

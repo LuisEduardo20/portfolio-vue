@@ -1,0 +1,291 @@
+{
+  "locales": {
+    "pt-br": {
+      "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+      "description": "Explorando a diversidade de habilidades que adquiri e desenvolvi:"
+    },
+    "en": {
+      "title": "<span class='text-primary'>Skill</span> Set",
+      "description": "Exploring the diverse range of skills I've acquired and developed:"
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "abilities",
+      "type": "grid",
+      "progress": null,
+      "faIcon": "fa-solid fa-square",
+      "locales": {
+        "en": { "title": null }
+      }
+    },
+
+    {
+      "id": "programming",
+      "type": "grid",
+      "progress": "number",
+      "faIcon": "fa fa-code",
+      "locales": {
+        "pt-br": { "title": "Programação" },
+        "en": { "title": "Programming" }
+      }
+    },
+
+    {
+      "id": "languages",
+      "type": "list",
+      "progress": {
+        "0": "beginner",
+        "20": "rookie",
+        "40": "intermediate",
+        "60": "advanced",
+        "80": "fluent",
+        "100": "native"
+      },
+      "faIcon": "fa fa-language",
+      "locales": {
+        "pt-br": { "title": "Idiomas" },
+        "en": { "title": "Languages" }
+      }
+    },
+
+    {
+      "id": "extra",
+      "type": "grid",
+      "progress": null,
+      "faIcon": "fa fa-marker",
+      "locales": {
+        "en": { "title": "Bonus Skills" },
+        "es": { "title": "Habilidades Adicionales" },
+        "fr": { "title": "Plus Habiletés" },
+        "zh": { "title": "附加技能" }
+      }
+    }
+  ],
+
+  "items": {
+    "abilities": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-mobile-alt",
+        "value": null,
+        "locales": {
+          "pt-br": {
+            "title": "Layouts Responsivos",
+            "description": "Proficiente na criação de layouts adaptáveis ​​para diversos dispositivos, garantindo a melhor experiência do usuário."
+          },
+          "en": {
+            "title": "Responsive Layouts",
+            "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience."
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-laptop-code",
+        "value": null,
+        "locales": {
+          "pt-br": {
+            "title": "Fidelidade dos protótipos",
+            "description": "Alta fidelidade das prototipagens feitas em aplicações como Figma."
+          },
+          "en": {
+            "title": "Prototype fidelity",
+            "description": "High fidelity prototyping made in applications like Figma."
+          }
+        }
+      }
+    ],
+
+    "programming": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-html5",
+        "value": 80,
+        "locales": {
+          "pt-br": {
+            "title": "HTML 5",
+            "description": "Tempo de experiência: 5 anos"
+          },
+          "en": {
+            "title": "HTML 5",
+            "description": "Experience Time: 5 years"
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-css3-alt",
+        "value": 80,
+        "locales": {
+          "pt-br": {
+            "title": "CSS 3",
+            "description": "Tempo de experiência: 5 anos"
+          },
+          "en": { "title": "CSS 3", "description": "Experience Time: 5 years" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-sass",
+        "value": 50,
+        "locales": {
+          "pt-br": {
+            "title": "Sass/Less",
+            "description": "Tempo de experiência: 1 ano"
+          },
+          "en": {
+            "title": "Sass/Less",
+            "description": "Experience Time: 1 year"
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-js-square",
+        "value": 85,
+        "locales": {
+          "pt-br": {
+            "title": "JavaScript",
+            "description": "Tempo de experiência: 5 anos"
+          },
+          "en": {
+            "title": "JavaScript",
+            "description": "Experience Time: 5 years"
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-ts",
+        "value": 75,
+        "locales": {
+          "pt-br": {
+            "title": "TypeScript",
+            "description": "Tempo de experiência: 4 anos"
+          },
+          "en": {
+            "title": "TypeScript",
+            "description": "Experience Time: 4 years"
+          }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-vuejs",
+        "value": 55,
+        "locales": {
+          "pt-br": {
+            "title": "Vue 3",
+            "description": "Tempo de experiência: 1 ano"
+          },
+          "en": { "title": "Vue 3", "description": "Experience Time: 1 years" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-react",
+        "value": 75,
+        "locales": {
+          "pt-br": {
+            "title": "React",
+            "description": "Tempo de experiência: 3 anos"
+          },
+          "en": {
+            "title": "React",
+            "description": "Experience time: 3 years"
+          }
+        }
+      }
+    ],
+
+    "languages": [
+      {
+        "imageIconUrl": "images/flags/pt.png",
+        "faIcon": null,
+        "value": 100,
+        "locales": {
+          "pt-br": {
+            "title": "Português",
+            "description": "Falante nativo com excelentes habilidades de comunicação e escrita."
+          },
+          "en": {
+            "title": "Brazilian Portuguese",
+            "description": "Native speaker with excellent communication and writing skills."
+          }
+        }
+      },
+      {
+        "imageIconUrl": "images/flags/en.png",
+        "faIcon": null,
+        "value": 60,
+        "locales": {
+          "pt-br": {
+            "title": "Inglês",
+            "description": "Comunicação verbal e escrita técnica intermediária."
+          },
+          "en": {
+            "title": "English",
+            "description": "Intermediate technical verbal and written communication."
+          }
+        }
+      }
+    ],
+
+    "extra": [
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "pt-br": {
+            "title": "Desenvolvimento Front-End",
+            "description": "Ábil para desenvolver código em Wordpress/Elementor, VueJS, React JS and TypeScript."
+          },
+          "en": {
+            "title": "Front-End Development",
+            "description": "Able to develop code in Wordpress/Elementor, VueJS, React JS and TypeScript."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "pt-br": {
+            "title": "Desenvolvimento Back-End",
+            "description": "Ábil para desenvolver código em Prisma ORM, Express JS,  and TypeScript."
+          },
+          "en": {
+            "title": "Back-End Development",
+            "description": "Able to develop code in Prisma ORM, Express JS, Adonis jS and TypeScript."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "pt-br": {
+            "title": "Desenvolvimento Mobile",
+            "description": "Ábil para desenvolver código em React Native and TypeScript."
+          },
+          "en": {
+            "title": "Mobile Development",
+            "description": "Able to code in React Native and TypeScript."
+          }
+        }
+      }
+    ]
+  }
+}

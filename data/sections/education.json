@@ -1,0 +1,65 @@
+{
+  "locales": {
+    "pt-br": {
+      "title": "<span class='text-primary'>Formação</span> Acadêmica",
+      "description": "Um vislumbre da minha trajetória acadêmica e realizações."
+    },
+    "en": {
+      "title": "<span class='text-primary'>Educational</span> Background",
+      "description": "A glimpse into my academic trajectory and accomplishments."
+    }
+  },
+
+  "items": [
+    {
+      "id": "online_alura",
+      "place": "@link{places.alura}",
+      "period": ["2022/12", "2023/04"],
+
+      "locales": {
+        "pt-br": {
+          "title": "Formação Full Stack, React e Node",
+          "description": "Formação focada em desenvolvimento de aplicações web com React, Typescript e Node, com boas práticas de testes automatizados e arquiteturas frontend."
+        },
+        "en": {
+          "title": "Full Stack, React and Node Training",
+          "description": "Training focused on developing web applications with React, Typescript and Node, with good practices in automated testing and frontend architectures."
+        }
+      }
+    },
+
+    {
+      "id": "online_ada",
+      "place": "@link{places.ada_tech}",
+      "period": ["2023/01", "2023/07"],
+
+      "locales": {
+        "pt-br": {
+          "title": "Formação FronEnd React",
+          "description": "Formação focada 100% em desenvolvimento de aplicações web interativas com React e Typescript, abrangindo desde os conceitos básicos até avançados."
+        },
+        "en": {
+          "title": "FrontEnd React Training",
+          "description": "Training focused 100% on developing interactive web applications with React and Typescript, covering everything from basic to advanced concepts."
+        }
+      }
+    },
+
+    {
+      "id": "bachelor_upe",
+      "place": "@link{places.upe}",
+      "period": ["2019/03", "2023/11"],
+
+      "locales": {
+        "pt-br": {
+          "title": "Barachelado em Sistemas de Informações",
+          "description": "Graduado com uma base sólida em conceitos de lógica de programação enquanto se especializava em desenvolvimento front-end. Adquiriu expertise em construções de interfaces que agreguem fortemente a usabilidade dos usuários e tempo de vida para o código."
+        },
+        "en": {
+          "title": "Bachelor's in Information Systems",
+          "description": "Graduated with a solid foundation in programming logic concepts while specializing in front-end development. Acquired expertise in building interfaces that strongly add user usability and code lifespan."
+        }
+      }
+    }
+  ]
+}
