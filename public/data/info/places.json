@@ -1,4 +1,31 @@
 {
+  "nutes": {
+    "logoUrl": "images/places/logo-nutes.jpg",
+    "faIcon": "fa fa-university",
+    "locales": {
+      "pt-br": { "name": "Núcleo de Telessaúde do Hospital das Clínicas UFPE" },
+      "en": { "name": "Telehealth Center of the UFPE Clinical Hospital" }
+    }
+  },
+
+  "clicksoft": {
+    "logoUrl": "images/places/logo-clicksoft.jpg",
+    "faIcon": "fa fa-university",
+    "locales": {
+      "pt-br": { "name": "Clicksoft" },
+      "en": { "name": "Clicksoft" }
+    }
+  },
+
+  "navit": {
+    "logoUrl": "images/places/logo-navit.jpg",
+    "faIcon": "fa fa-university",
+    "locales": {
+      "pt-br": { "name": "NAVIT Digital" },
+      "en": { "name": "NAVIT Digital" }
+    }
+  },
+
   "upe": {
     "logoUrl": "images/places/universidade_de_pernambuco_logo.jpg",
     "faIcon": "fa fa-university",
