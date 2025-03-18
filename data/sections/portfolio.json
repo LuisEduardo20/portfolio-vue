@@ -43,7 +43,7 @@
         "links": [
           {
             "faIcon": "fa-brands fa-github",
-            "href": "https://apple.com",
+            "href": "https://guess-the-color-eight.vercel.app",
             "id": "GitHub"
           }
         ],
@@ -68,7 +68,7 @@
         "links": [
           {
             "faIcon": "fa-brands fa-github",
-            "href": "https://apple.com",
+            "href": "https://github-searcher-v2.vercel.app",
             "id": "GitHub"
           }
         ],
