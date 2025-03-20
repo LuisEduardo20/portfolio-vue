@@ -19,22 +19,28 @@
       "locales": {
         "pt-br": {
           "title": "Desenvolvedor Web",
-          "description": "Desenvolvimento e manutenção de portais de telessaúde e projetos em colaboração com parceiros.",
+          "description": "Desenvolvimento de um portal de informações de saúde para ajudar pessoas com sintomas de COVID-19, filtragem de dados de uma base que estavam com dificil acesso e desenvolvimento de um micro-serviço para facilitar a obtenção desses dados, tudo isso com Wordpress/Elementor, NodeJS e PostgreSQL.",
           "tags": [
             "Wordpress/Elementor",
-            "NodeJS",
-            "Figma",
+            "HTML 5",
+            "CSS 3",
+            "Javascript",
+            "Node.JS",
+            "PostgreSQL",
             "Design Responsivo"
           ]
         },
         "en": {
           "title": "Web Developer",
-          "description": "Development and maintenance of telehealth portals and projects in collaboration with partners.",
+          "description": "Development of a health information portal to help people with COVID-19 symptoms, filtering data from a database that was difficult to access and developing a microservice to facilitate obtaining this data, all with Wordpress/Elementor, NodeJS and PostgreSQL.",
           "tags": [
             "Wordpress/Elementor",
-            "NodeJS",
-            "Figma",
-            "Design Responsivo"
+            "HTML 5",
+            "CSS 3",
+            "Javascript",
+            "Node.JS",
+            "PostgreSQL",
+            "Responsive Design"
           ]
         }
       }
@@ -47,26 +53,32 @@
       "locales": {
         "pt-br": {
           "title": "Desenvolvedor Web Full-Stack Jr.",
-          "description": "Desenvolvimento de aplicações comerciáis e manutenção de sistemas legados com uma visão focada na experiência do usuário.",
+          "description": "Desenvolvimento e manutenção de aplicações Web com React e Next, Styled-Components, Adonis JS e PostgreSQL para projetos de teleconsultas através de celular e desktop, prestações de serviço sob demanda, plataforma de acesso de vídeo aulas gravadas e ao vivo e de aquisição de cupons de desconto, além de mentorar e guiar desenvolvedores iniciantes com suas funções e atribuições.",
           "tags": [
-            "ReactJS",
+            "React",
+            "Next",
             "Typescript",
             "AdonisJS",
+            "PostgreSQL",
             "Vercel",
             "Heroku",
-            "Testes automatizados"
+            "Testes automatizados",
+            "Testes de integração"
           ]
         },
         "en": {
           "title": "Jr. Full-Stack Web Developer",
-          "description": "Development of commercial applications and maintenance of legacy systems with a focus on user experience.",
+          "description": "Development and maintenance of web applications with React and Next, Styled-Components, Adonis JS and PostgreSQL for teleconsultation projects via cell phone and desktop, provision of on-demand services, platform for accessing recorded and live video classes and purchasing discount coupons, in addition to mentoring and guiding beginner developers with their functions and assignments.",
           "tags": [
-            "ReactJS",
+            "React",
+            "Next",
             "Typescript",
             "AdonisJS",
+            "PostgreSQL",
             "Vercel",
             "Heroku",
-            "Automated Testing"
+            "Automated Testing",
+            "Integration Tests"
           ]
         }
       }
@@ -79,29 +91,35 @@
       "locales": {
         "pt-br": {
           "title": "Engenheiro de Software",
-          "description": "Desenvolvimento e manutenção de uma plataforma de processamento de dados em tempo real com VueJS e app de acompanhamento de tasks com React Native.",
+          "description": "Desenvolvimento e manutenção de um sistema web e aplicativo mobile focado principalmente para a indústria que tem como objetivo usar IA e modelos de predição para criar ordens de serviço nos mais diversos tipos de mercado, implementando melhorias na arquitetura do sistema e na qualidade do código utilizando.",
           "tags": [
             "VueJS",
             "Element Plus",
-            "Figma",
             "Typescript",
-            "AWS",
             "Mikro ORM",
+            "AWS",
+            "Docker",
             "Desenvolvimento Ágil",
+            "Scrum",
+            "Kanban",
+            "Storybook",
             "Testes automatizados"
           ]
         },
         "en": {
           "title": "Software Engineer",
-          "description": "Development and maintenance of a real-time data processing platform with VueJS and a task tracking app with React Native.",
+          "description": "Development and maintenance of a web system and mobile application focused mainly on the industry that aims to use AI and prediction models to create service orders in the most diverse types of market, implementing improvements in the system architecture and in the quality of the code used.",
           "tags": [
             "VueJS",
             "Element Plus",
-            "Figma",
             "Typescript",
-            "AWS",
             "Mikro ORM",
+            "AWS",
+            "Docker",
             "Agile Development",
+            "Scrum",
+            "Kanban",
+            "Storybook",
             "Automated Testing"
           ]
         }
