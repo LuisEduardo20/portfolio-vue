@@ -40,14 +40,6 @@
     },
 
     {
-      "id": "skills",
-      "categoryId": "showcase",
-      "component": "InfoSection",
-      "jsonPath": "data/sections/skills.json",
-      "faIcon": "fa-solid fa-tools"
-    },
-
-    {
       "id": "experience",
       "categoryId": "background",
       "component": "TimelineSection",
@@ -61,14 +53,6 @@
       "component": "GallerySection",
       "jsonPath": "data/sections/portfolio.json",
       "faIcon": "fa-solid fa-folder-open"
-    },
-
-    {
-      "id": "hobbies",
-      "categoryId": "more",
-      "component": "InfoSection",
-      "jsonPath": "data/sections/hobbies.json",
-      "faIcon": "fa-solid fa-heart"
     },
 
     {
