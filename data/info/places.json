@@ -135,6 +135,7 @@
     "logoUrl": "images/places/logo-unipds.jpeg",
     "faIcon": "fas fa-paint-brush",
     "locales": {
+      "pt-br": { "name": "UNIPDS" },
       "en": { "name": "UNIPDS" }
     }
   },
@@ -143,6 +144,7 @@
     "logoUrl": "images/places/logo-finvity.jpeg",
     "faIcon": "fas fa-paint-brush",
     "locales": {
+      "pt-br": { "name": "Finvity" },
       "en": { "name": "Finvity" }
     }
   }
