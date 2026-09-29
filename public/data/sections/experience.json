@@ -15,7 +15,7 @@
     {
       "id": "experience_item_1",
       "place": "@link{places.nutes}",
-      "period": ["2020/05", "2022/11"],
+      "period": ["2020/05", "2022/03"],
       "locales": {
         "pt-br": {
           "title": "Desenvolvedor Web",
@@ -87,7 +87,7 @@
     {
       "id": "experience_item_3",
       "place": "@link{places.navit}",
-      "period": ["2024/08", "now"],
+      "period": ["2024/08", "2026/02"],
       "locales": {
         "pt-br": {
           "title": "Engenheiro de Software",
@@ -129,7 +129,7 @@
     {
       "id": "experience_item_4",
       "place": "@link{places.finvity}",
-      "period": ["2026/02", "now"],
+      "period": ["2026/02", "2026/09"],
       "locales": {
         "pt-br": {
           "title": "Engenheiro de Software",
