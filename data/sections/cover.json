@@ -3,13 +3,13 @@
     "pt-br": {
       "welcome": "Bem vindo ao meu <span class='text-primary'>Currículo!</span>",
       "welcomeShort": "Bem vindo!",
-      "bio": "Com 5 anos de experiência como desenvolvedor de software pude contribur em diversos projetos de várias áreas, desde saúde até consultorias, sou apaixonado pela arte de resolver problemas e será um prazer lhe ajudar no que precisar!"
+      "bio": "Sou Software Engineer com experiência desde 2020 no desenvolvimento e evolução de produtos digitais. Atuo em soluções para saúde, processamento de dados em tempo real e gestão patrimonial, criando interfaces, integrações e sistemas escaláveis com React, Next.js, TypeScript e Node.js. Tenho interesse em qualidade de software, IA aplicada e em transformar desafios de negócio em experiências digitais claras e confiáveis."
     },
 
     "en": {
       "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
       "welcomeShort": "Welcome!",
-      "bio": "With 5 years of experience as a software developer, I was able to contribute to several projects in different areas, from healthcare to consultancy, I am passionate about the art of solving problems and it will be a pleasure to help you with whatever you need!"
+      "bio": "I am a Software Engineer with experience since 2020 building and evolving digital products. I have worked on solutions for healthcare, real-time data processing, and wealth management, creating interfaces, integrations, and scalable systems with React, Next.js, TypeScript, and Node.js. I am interested in software quality, applied AI, and turning business challenges into clear, reliable digital experiences."
     }
   },
 
