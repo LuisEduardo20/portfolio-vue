@@ -31,7 +31,7 @@
     {
       "id": "online_ada",
       "place": "@link{places.ada_tech}",
-      "period": ["2023/01", "2023/07"],
+      "period": ["2022/12", "2023/04"],
 
       "locales": {
         "pt-br": {
@@ -58,6 +58,23 @@
         "en": {
           "title": "Bachelor's in Information Systems",
           "description": "Graduated with a solid foundation in programming logic concepts while specializing in front-end development. Acquired expertise in building interfaces that strongly add user usability and code lifespan."
+        }
+      }
+    },
+
+    {
+      "id": "post_graduate_unipds",
+      "place": "@link{places.unipds}",
+      "period": ["2026/03", "2027/04"],
+
+      "locales": {
+        "pt-br": {
+          "title": "Pós Graduação em Engenharia de IA Aplicada",
+          "description": "Pós graduado com foco em utilização de IA para desenvolvimento de soluções modernas e robustas de desenvolvimento como RAG, LLMs, MCP, SDD entre várias outras tecnologias, metodologias e ferramentas"
+        },
+        "en": {
+          "title": "Postgraduate in Applied AI Engineering",
+          "description": "Postgraduate specialization focused on the use of AI to develop modern, robust solutions—such as RAG, LLMs, MCP, and SDD—alongside various other technologies, methodologies, and tools."
         }
       }
     }
