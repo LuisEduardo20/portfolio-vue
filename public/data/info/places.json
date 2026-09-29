@@ -129,5 +129,13 @@
     "locales": {
       "en": { "name": "UX Masters Studio" }
     }
+  },
+
+  "unipds": {
+    "logoUrl": "images/places/logo-unipds.jpeg",
+    "faIcon": "fas fa-paint-brush",
+    "locales": {
+      "en": { "name": "UNIPDS" }
+    }
   }
 }
