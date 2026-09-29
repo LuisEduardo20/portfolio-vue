@@ -137,5 +137,13 @@
     "locales": {
       "en": { "name": "UNIPDS" }
     }
+  },
+
+  "finvity": {
+    "logoUrl": "images/places/logo-finvity.jpeg",
+    "faIcon": "fas fa-paint-brush",
+    "locales": {
+      "en": { "name": "Finvity" }
+    }
   }
 }
