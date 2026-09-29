@@ -31,7 +31,7 @@
     {
       "id": "online_ada",
       "place": "@link{places.ada_tech}",
-      "period": ["2023/01", "2023/07"],
+      "period": ["2022/12", "2023/04"],
 
       "locales": {
         "pt-br": {
